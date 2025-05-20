@@ -53,7 +53,8 @@ Designed and developed using **WordPress + Elementor**, the project emphasizes *
 
 ## 📸 Screenshot Preview
 
-> [HealthCore Homepage](./assets/healthcore-homepage-full.png)
+![HealthCore Homepage](assets/healthcore-homepage-full.png)
+
 
 ---
 
