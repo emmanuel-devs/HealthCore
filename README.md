@@ -51,10 +51,11 @@ Designed and developed using **WordPress + Elementor**, the project emphasizes *
 
 ---
 
-## 📸 Screenshot Preview
+## 📸 Screenshot & Live Preview
 
 ![HealthCore Homepage](assets/healthcore-homepage-full.png)
 
+👉 Live: https://heathcore.netlify.app/
 
 ---
 
@@ -68,4 +69,4 @@ Designed and developed using **WordPress + Elementor**, the project emphasizes *
 ## 💬 Need a Medical Website Like This?
 
 Let’s build something great together →  
-📩 **[Contact Me](mailto:emmanuelsamuel.dev@gmail.com)**
+📩 **[Contact Me](mailto:samuel02emmanuel02@gmail.com)**
