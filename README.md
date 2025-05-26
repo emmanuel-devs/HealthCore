@@ -55,7 +55,7 @@ Designed and developed using **WordPress + Elementor**, the project emphasizes *
 
 ![HealthCore Homepage](assets/healthcore-homepage-full.png)
 
-👉 Live: https://heathcore.netlify.app/
+👉 [Live: https://heathcore.netlify.app/](https://heathcore.netlify.app/)
 
 ---
 
